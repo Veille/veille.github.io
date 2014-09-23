@@ -9,13 +9,11 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : Jekyll Bootstrap
-tagline: Site Tagline
+tagline: A blog about the learnings of a programmer
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Adam Cullen
+  github : veille
+  twitter : @veille07
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
